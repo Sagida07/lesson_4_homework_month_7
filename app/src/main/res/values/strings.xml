@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hw4_m7</string>
+
+    <string-array name="results">
+        <item>Result: Win</item>
+        <item>Result: Loose</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>Difficulty: Easy</item>
+        <item>Difficulty: Mid</item>
+        <item>Difficulty: Difficult</item>
+        <item>Difficulty: Extremal</item>
+    </string-array>
+
+</resources>
